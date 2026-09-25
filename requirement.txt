@@ -1,0 +1,8 @@
+duckdb
+pandas
+numpy
+scikit-learn
+rapidfuzz
+tqdm
+pyarrow
+reportlab
