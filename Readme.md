@@ -46,7 +46,7 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 .venv\Scripts\Activate.ps1
 
 6.
-pip install -r requirements.txt
+pip install -r requirement.txt
 
 7.
 ML_challenge/
